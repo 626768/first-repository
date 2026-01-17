@@ -1,2 +1,5 @@
 # friend
 hello
+
+# teaching 
+git
